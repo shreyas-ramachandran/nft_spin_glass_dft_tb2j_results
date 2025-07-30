@@ -1,0 +1,88 @@
+SystemName          NbFeTe2 Bulk
+SystemLabel         NbFeTe2
+
+NumberOfAtoms       16
+NumberOfSpecies     3
+
+LatticeConstant 1 Ang 
+%block LatticeVectors
+        6.344706   -0.000002    0.000000
+       -0.000003    7.737341    0.000000
+        0.000000    0.000000    8.003319
+%endblock LatticeVectors
+
+%block ChemicalSpeciesLabel
+  1   41  Nb /work/e89/e89/shreyas/psml_files/Nb.psml
+  2   26  Fe /work/e89/e89/shreyas/psml_files/Fe.psml
+  3   52  Te /work/e89/e89/shreyas/psml_files/Te.psml
+%endblock ChemicalSpeciesLabel
+
+AtomicCoordinatesFormat Fractional
+
+%block AtomicCoordinatesAndAtomicSpecies
+    0.49999999    0.50000000    0.29576047   1      
+   -0.00000003    0.50000001    0.79576014   1      
+    0.00000000    0.50000001    0.20423985   1      
+    0.49999998    0.50000002    0.70423954   1      
+    0.13893816    0.60578707    0.50000000   2      
+    0.63893848    0.39421265    0.00000001   2      
+    0.86106182    0.39421295    0.49999997   2      
+    0.36106155    0.60578739    0.00000001   2      
+    0.75000001    0.19119272    0.74999976   3      
+    0.24278264    0.27395142   -0.00000000   3      
+    0.75721736    0.72604862    0.00000003   3      
+    0.24999996    0.80880730    0.74999982   3      
+    0.74278275    0.72604835    0.50000003   3      
+    0.25721721    0.27395168    0.50000002   3      
+    0.24999996    0.80880732    0.25000022   3      
+    0.75000001    0.19119271    0.25000021   3
+%endblock AtomicCoordinatesAndAtomicSpecies
+
+XC.functional   GGA
+XC.authors      PBE
+Spin            spin-orbit
+Charge.Mulliken end
+
+%block DM.InitSpin
+   5  +  90.  90.
+   6  +  90.  90.
+   7  +  90.  90.
+   8  +  90.  90.
+%endblock DM.InitSpin
+
+SCF.Mix                 Hamiltonian
+SCF.Mixer.Method        Pulay
+SCF.Mixer.History       10
+SCF.Mixer.Weight        0.1
+SCF.Mixer.Kick          50
+
+SCF.H.Tolerance		0.005 eV
+SCF.DM.Tolerance	0.0005
+
+PAO.BasisSize           DZP
+PAO.EnergyShift         50 meV
+
+%block DFTU.proj
+Fe   1               # number of shells of projectors
+n=3    2             #  n, l
+  4.5  0.9     # U(eV), J(eV)
+  0.0  0.0     # rc, \omega (if zero default values are taken)
+%endblock DFTU.proj
+
+DM.UseSaveDM           	T
+
+# Real space grid...
+MeshCutoff           150 Ry
+
+%block kgrid_Monkhorst_Pack
+  10	0	0    0.0
+  0	10	0    0.0
+  0	0	10    0.0
+%endblock kgrid_Monkhorst_Pack
+
+MD.TypeOfRun            CG
+MD.Steps                100
+MD.MaxForceTol          0.01 eV/Ang
+MD.VariableCell        T
+#MD.NaxStressTol		0.05 GPa
+Target.Pressure		0.0 GPa

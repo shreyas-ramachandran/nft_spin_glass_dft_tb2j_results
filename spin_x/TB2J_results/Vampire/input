@@ -1,0 +1,46 @@
+#------------------------------------------ 
+# Creation attributes: 
+#------------------------------------------ 
+create:periodic-boundaries-x 
+create:periodic-boundaries-y 
+#create:periodic-boundaries-z 
+#------------------------------------------
+material:file=vampire.mat
+material:unit-cell-file = vampire.UCF
+#------------------------------------------ 
+# System Dimensions: 
+#------------------------------------------ 
+dimensions:system-size-x = 50.0 !nm 
+dimensions:system-size-y = 50.0 !nm 
+dimensions:system-size-z = 0.5 !nm 
+#------------------------------------------ 
+# Simulation attributes: 
+#------------------------------------------ 
+sim:time-step = 1.0e-16
+sim:equilibration-temperature = 0.0
+sim:equilibration-time-steps = 10000
+sim:minimum-temperature = 0
+sim:maximum-temperature = 90
+sim:temperature-increment = 1
+sim:loop-time-steps = 10000
+sim:time-steps-increment = 1
+#---------------------------------------------------
+# Dipole solver attributes
+#---------------------------------------------------
+#dipole:solver = tensor
+#---------------------------------------------------
+# Program and integrator details
+#---------------------------------------------------
+sim:program = curie-temperature
+sim:integrator = monte-carlo
+#---------------------------------------------------
+# Data output
+#---------------------------------------------------
+output:column-headers
+output:time-steps
+output:temperature
+output:material-magnetisation
+
+config:atoms
+config:atoms-output-rate = 10
+

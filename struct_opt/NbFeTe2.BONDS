@@ -1,0 +1,116 @@
+Neighbors of:     1 Nb at:   5.9949  7.3107  4.4731
+    8 Fe                    2.6552  Ang. Really at:   4.3290  8.8575  0.0000
+    6 Fe                    2.6552  Ang. Really at:   7.6607  5.7640  0.0000
+   14 Te                    2.8467  Ang. Really at:   3.0840  4.0056  7.5620
+   13 Te                    2.8467  Ang. Really at:   8.9058 10.6159  7.5620
+   16 Te                    2.8912  Ang. Really at:   8.9923  2.7955  3.7810
+   15 Te                    2.8912  Ang. Really at:   2.9974 11.8259  3.7810
+    7 Fe                    2.9308  Ang. Really at:  10.3239  5.7640  7.5620
+    5 Fe                    2.9308  Ang. Really at:   1.6658  8.8575  7.5620
+Neighbors of:     2 Nb at:  -0.0000  7.3107 12.0351
+    5 Fe                    2.6552  Ang. Really at:   1.6658  8.8575  7.5620
+    7 Fe                    2.6552  Ang. Really at:  -1.6658  5.7640  7.5620
+   10 Te                    2.8467  Ang. Really at:   2.9109  4.0056 15.1241
+   11 Te                    2.8467  Ang. Really at:  -2.9109 10.6159 15.1241
+    9 Te                    2.8912  Ang. Really at:  -2.9974  2.7955 11.3431
+   12 Te                    2.8912  Ang. Really at:   2.9974 11.8259 11.3431
+    6 Fe                    2.9308  Ang. Really at:  -4.3290  5.7640 15.1241
+    8 Fe                    2.9308  Ang. Really at:   4.3290  8.8575 15.1241
+Neighbors of:     3 Nb at:  -0.0000  7.3107  3.0889
+    7 Fe                    2.6552  Ang. Really at:  -1.6658  5.7640  7.5620
+    5 Fe                    2.6552  Ang. Really at:   1.6658  8.8575  7.5620
+   11 Te                    2.8467  Ang. Really at:  -2.9109 10.6159  0.0000
+   10 Te                    2.8467  Ang. Really at:   2.9109  4.0056  0.0000
+   15 Te                    2.8912  Ang. Really at:   2.9974 11.8259  3.7810
+   16 Te                    2.8912  Ang. Really at:  -2.9974  2.7955  3.7810
+    6 Fe                    2.9308  Ang. Really at:  -4.3290  5.7640  0.0000
+    8 Fe                    2.9308  Ang. Really at:   4.3290  8.8575  0.0000
+Neighbors of:     4 Nb at:   5.9949  7.3107 10.6510
+    8 Fe                    2.6552  Ang. Really at:   4.3290  8.8575 15.1241
+    6 Fe                    2.6552  Ang. Really at:   7.6607  5.7640 15.1241
+   13 Te                    2.8467  Ang. Really at:   8.9058 10.6159  7.5620
+   14 Te                    2.8467  Ang. Really at:   3.0840  4.0056  7.5620
+   12 Te                    2.8912  Ang. Really at:   2.9974 11.8259 11.3431
+    9 Te                    2.8912  Ang. Really at:   8.9923  2.7955 11.3431
+    5 Fe                    2.9308  Ang. Really at:   1.6658  8.8575  7.5620
+    7 Fe                    2.9308  Ang. Really at:  10.3239  5.7640  7.5620
+Neighbors of:     5 Fe at:   1.6658  8.8575  7.5620
+    7 Fe                    2.4059  Ang. Really at:  -1.6658  5.7640  7.5620
+   15 Te                    2.6396  Ang. Really at:   2.9974 11.8259  3.7810
+   12 Te                    2.6396  Ang. Really at:   2.9974 11.8259 11.3431
+    2 Nb                    2.6552  Ang. Really at:  -0.0000  7.3107 12.0351
+    3 Nb                    2.6552  Ang. Really at:  -0.0000  7.3107  3.0889
+   14 Te                    2.6749  Ang. Really at:   3.0840  4.0056  7.5620
+   13 Te                    2.6802  Ang. Really at:  -3.0840 10.6159  7.5620
+    4 Nb                    2.9308  Ang. Really at:   5.9949  7.3107 10.6510
+    1 Nb                    2.9308  Ang. Really at:   5.9949  7.3107  4.4731
+Neighbors of:     6 Fe at:   7.6607  5.7640  0.0000
+    8 Fe                    2.4059  Ang. Really at:   4.3290  8.8575  0.0000
+   16 Te                    2.6396  Ang. Really at:   8.9923  2.7955  3.7810
+    9 Te                    2.6396  Ang. Really at:   8.9923  2.7955 -3.7810
+    1 Nb                    2.6552  Ang. Really at:   5.9949  7.3107  4.4731
+    4 Nb                    2.6552  Ang. Really at:   5.9949  7.3107 -4.4731
+   11 Te                    2.6750  Ang. Really at:   9.0788 10.6159  0.0000
+   10 Te                    2.6802  Ang. Really at:   2.9109  4.0056  0.0000
+    2 Nb                    2.9308  Ang. Really at:  11.9898  7.3107 -3.0889
+    3 Nb                    2.9308  Ang. Really at:  11.9898  7.3107  3.0889
+Neighbors of:     7 Fe at:  10.3239  5.7640  7.5620
+    5 Fe                    2.4059  Ang. Really at:  13.6556  8.8575  7.5620
+   16 Te                    2.6396  Ang. Really at:   8.9923  2.7955  3.7810
+    9 Te                    2.6396  Ang. Really at:   8.9923  2.7955 11.3431
+    3 Nb                    2.6552  Ang. Really at:  11.9898  7.3107  3.0889
+    2 Nb                    2.6552  Ang. Really at:  11.9898  7.3107 12.0351
+   13 Te                    2.6749  Ang. Really at:   8.9058 10.6159  7.5620
+   14 Te                    2.6802  Ang. Really at:  15.0737  4.0056  7.5620
+    1 Nb                    2.9308  Ang. Really at:   5.9949  7.3107  4.4731
+    4 Nb                    2.9308  Ang. Really at:   5.9949  7.3107 10.6510
+Neighbors of:     8 Fe at:   4.3290  8.8575  0.0000
+    6 Fe                    2.4059  Ang. Really at:   7.6607  5.7640  0.0000
+   12 Te                    2.6396  Ang. Really at:   2.9974 11.8259 -3.7810
+   15 Te                    2.6396  Ang. Really at:   2.9974 11.8259  3.7810
+    1 Nb                    2.6552  Ang. Really at:   5.9949  7.3107  4.4731
+    4 Nb                    2.6552  Ang. Really at:   5.9949  7.3107 -4.4731
+   10 Te                    2.6750  Ang. Really at:   2.9109  4.0056  0.0000
+   11 Te                    2.6802  Ang. Really at:   9.0788 10.6159  0.0000
+    3 Nb                    2.9308  Ang. Really at:  -0.0000  7.3107  3.0889
+    2 Nb                    2.9308  Ang. Really at:  -0.0000  7.3107 -3.0889
+Neighbors of:     9 Te at:   8.9923  2.7955 11.3431
+    7 Fe                    2.6396  Ang. Really at:  10.3239  5.7640  7.5620
+    6 Fe                    2.6396  Ang. Really at:   7.6607  5.7640 15.1241
+    2 Nb                    2.8912  Ang. Really at:  11.9898  7.3107 12.0351
+    4 Nb                    2.8912  Ang. Really at:   5.9949  7.3107 10.6510
+Neighbors of:    10 Te at:   2.9109  4.0056  0.0000
+    8 Fe                    2.6750  Ang. Really at:   4.3290  8.8575  0.0000
+    6 Fe                    2.6802  Ang. Really at:   7.6607  5.7640  0.0000
+    3 Nb                    2.8467  Ang. Really at:  -0.0000  7.3107  3.0889
+    2 Nb                    2.8467  Ang. Really at:  -0.0000  7.3107 -3.0889
+Neighbors of:    11 Te at:   9.0788 10.6159  0.0000
+    6 Fe                    2.6750  Ang. Really at:   7.6607  5.7640  0.0000
+    8 Fe                    2.6802  Ang. Really at:   4.3290  8.8575  0.0000
+    3 Nb                    2.8467  Ang. Really at:  11.9898  7.3107  3.0889
+    2 Nb                    2.8467  Ang. Really at:  11.9898  7.3107 -3.0889
+Neighbors of:    12 Te at:   2.9974 11.8259 11.3431
+    5 Fe                    2.6396  Ang. Really at:   1.6658  8.8575  7.5620
+    8 Fe                    2.6396  Ang. Really at:   4.3290  8.8575 15.1241
+    2 Nb                    2.8912  Ang. Really at:  -0.0000  7.3107 12.0351
+    4 Nb                    2.8912  Ang. Really at:   5.9949  7.3107 10.6510
+Neighbors of:    13 Te at:   8.9058 10.6159  7.5620
+    7 Fe                    2.6749  Ang. Really at:  10.3239  5.7640  7.5620
+    5 Fe                    2.6802  Ang. Really at:  13.6556  8.8575  7.5620
+    4 Nb                    2.8467  Ang. Really at:   5.9949  7.3107 10.6510
+    1 Nb                    2.8467  Ang. Really at:   5.9949  7.3107  4.4731
+Neighbors of:    14 Te at:   3.0840  4.0056  7.5620
+    5 Fe                    2.6749  Ang. Really at:   1.6658  8.8575  7.5620
+    7 Fe                    2.6802  Ang. Really at:  -1.6658  5.7640  7.5620
+    4 Nb                    2.8467  Ang. Really at:   5.9949  7.3107 10.6510
+    1 Nb                    2.8467  Ang. Really at:   5.9949  7.3107  4.4731
+Neighbors of:    15 Te at:   2.9974 11.8259  3.7810
+    5 Fe                    2.6396  Ang. Really at:   1.6658  8.8575  7.5620
+    8 Fe                    2.6396  Ang. Really at:   4.3290  8.8575  0.0000
+    3 Nb                    2.8912  Ang. Really at:  -0.0000  7.3107  3.0889
+    1 Nb                    2.8912  Ang. Really at:   5.9949  7.3107  4.4731
+Neighbors of:    16 Te at:   8.9923  2.7955  3.7810
+    7 Fe                    2.6396  Ang. Really at:  10.3239  5.7640  7.5620
+    6 Fe                    2.6396  Ang. Really at:   7.6607  5.7640  0.0000
+    3 Nb                    2.8912  Ang. Really at:  11.9898  7.3107  3.0889
+    1 Nb                    2.8912  Ang. Really at:   5.9949  7.3107  4.4731

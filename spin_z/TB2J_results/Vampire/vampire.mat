@@ -1,0 +1,50 @@
+material:num-materials = 4
+#---------------------------------------------------
+# Material 1 
+#---------------------------------------------------
+material[1]:material-name=Fe
+material[1]:damping-constant=0.01
+material[1]:atomic-spin-moment=3.0664412137543695 !muB
+material[1]:uniaxial-anisotropy-constant=0.0
+material[1]:material-element=Fe
+material[1]:initial-spin-direction = 1.1511936122315659e-06,5.959086882106714e-07,0.9999999999991599
+material[1]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+material[1]:unit-cell-category = 1
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 2 
+#---------------------------------------------------
+material[2]:material-name=Fe
+material[2]:damping-constant=0.01
+material[2]:atomic-spin-moment=3.0664528087769267 !muB
+material[2]:uniaxial-anisotropy-constant=0.0
+material[2]:material-element=Fe
+material[2]:initial-spin-direction = -1.1649895019458419e-06,2.743519366783542e-07,0.9999999999992837
+material[2]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+material[2]:unit-cell-category = 2
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 3 
+#---------------------------------------------------
+material[3]:material-name=Fe
+material[3]:damping-constant=0.01
+material[3]:atomic-spin-moment=3.0664422318782725 !muB
+material[3]:uniaxial-anisotropy-constant=0.0
+material[3]:material-element=Fe
+material[3]:initial-spin-direction = -7.835784818707793e-07,-2.9655792145351285e-07,0.999999999999649
+material[3]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+material[3]:unit-cell-category = 3
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 4 
+#---------------------------------------------------
+material[4]:material-name=Fe
+material[4]:damping-constant=0.01
+material[4]:atomic-spin-moment=3.0664520346322908 !muB
+material[4]:uniaxial-anisotropy-constant=0.0
+material[4]:material-element=Fe
+material[4]:initial-spin-direction = 8.044605860027355e-07,-4.2077474552903156e-07,0.9999999999995879
+material[4]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+material[4]:unit-cell-category = 4
+#---------------------------------------------------
+# Interactions
